@@ -1,0 +1,20 @@
+{
+  "name": "wakini-nono",
+  "version": "2.0(c)",
+  "description": "Wakinin Nono a Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mortyyka",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "discord.js-lavalink": "^2.2.2",
+    "ffmpeg": "0.0.4",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.9",
+    "ytdl-core": "^0.29.2"
+  }
+}
