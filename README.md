@@ -1,7 +1,7 @@
 # Lelya. - Discord Bot
 
 
-v2.0.1 &copy;
+# v2.0.1 &copy;
 
 - Macska parancs hozzáadva!
 - Shutdown parancs hozzáadva!
@@ -21,7 +21,7 @@ v2.0.1 &copy;
   - Frissítések
 
 
-
+---
 # Jelenlegi fejleszteni, javítani való dolgok
 
  - Moderációs parancsok javítása,fejlesztése
@@ -31,7 +31,7 @@ v2.0.1 &copy;
 - Prefix megszabása
 - API Fejlesztések [Kutya, sima mémek]
 
-
+----
 License
 ----
 
