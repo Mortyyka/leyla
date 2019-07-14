@@ -1,5 +1,6 @@
 # Lelya. - Discord Bot
 
+> FELHÍVÁS: A Bot jelenleg nem rendelkezik VPS-sel, amelyet nem is tervezek, mivel ez egy nyílt forráskódú bot amelyett letölthettek a GITHUB oldalamról. [innen]
 
 # v2.0.1 &copy;
 
@@ -36,3 +37,4 @@ License
 ----
 
 ICA
+
